@@ -1,0 +1,4 @@
+code a  tinder bot  -- internet made coder
+
+data structure:
+    is a way of organizing the the data.
