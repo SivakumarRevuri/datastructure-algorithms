@@ -1,0 +1,9 @@
+
+Don't waste too much time, on choosing the language. (DSA is independent on PL)
+Don't sitck too much on single data structure or algorithm.
+Don't rush too much on problem solving.
+Don't do comparision with others.
+Don't leave DSA after learning.
+Don't ever pause DSA.
+Don't switch your resources.
+Don't Give up.
