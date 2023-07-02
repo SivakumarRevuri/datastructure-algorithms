@@ -1,2 +1,0 @@
-# Notes ML/DL/CV
-
